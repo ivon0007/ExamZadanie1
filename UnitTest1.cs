@@ -12,7 +12,7 @@ namespace MathAndStringTests
         public string ConvertToLowerCase(string input) => input.ToLower();
     }
 
-    // ЗАДАНИЕ 10: Преобразование строки в нижний регистр
+    // ЗАДАНИЕ 10: Преобразование строки в нижний региcтр
     public class StringOperationsTests
     {
         private readonly StringOperations _stringOps = new StringOperations();
